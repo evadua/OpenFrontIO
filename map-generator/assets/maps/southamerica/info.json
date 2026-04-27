@@ -2,153 +2,203 @@
   "name": "Americas",
   "nations": [
     {
-      "coordinates": [438, 58],
+      "coordinates": [
+        438,
+        58
+      ],
       "name": "Cuba",
-      "strength": 1,
       "flag": "cu"
     },
     {
-      "coordinates": [686, 133],
+      "coordinates": [
+        686,
+        133
+      ],
       "name": "Dominican Republic",
-      "strength": 1,
       "flag": "do"
     },
     {
-      "coordinates": [601, 128],
+      "coordinates": [
+        601,
+        128
+      ],
       "name": "Haiti",
-      "strength": 1,
       "flag": "ht"
     },
     {
-      "coordinates": [122, 143],
+      "coordinates": [
+        122,
+        143
+      ],
       "name": "Belize",
-      "strength": 1,
       "flag": "bz"
     },
     {
-      "coordinates": [68, 257],
+      "coordinates": [
+        68,
+        257
+      ],
       "name": "Guatemala",
-      "strength": 1,
       "flag": "gt"
     },
     {
-      "coordinates": [214, 249],
+      "coordinates": [
+        214,
+        249
+      ],
       "name": "Honduras",
-      "strength": 1,
       "flag": "hn"
     },
     {
-      "coordinates": [238, 326],
+      "coordinates": [
+        238,
+        326
+      ],
       "name": "Nicaragua",
-      "strength": 1,
       "flag": "ni"
     },
     {
-      "coordinates": [375, 436],
+      "coordinates": [
+        375,
+        436
+      ],
       "name": "Panama",
-      "strength": 1,
       "flag": "pa"
     },
     {
-      "coordinates": [847, 1209],
+      "coordinates": [
+        847,
+        1209
+      ],
       "name": "Bolivia",
-      "strength": 1,
       "flag": "bo"
     },
     {
-      "coordinates": [861, 1851],
+      "coordinates": [
+        861,
+        1851
+      ],
       "name": "Argentina",
-      "strength": 1,
       "flag": "ar"
     },
     {
-      "coordinates": [1153, 1095],
+      "coordinates": [
+        1153,
+        1095
+      ],
       "name": "Brazil",
-      "strength": 1,
       "flag": "br"
     },
     {
-      "coordinates": [687, 1605],
+      "coordinates": [
+        687,
+        1605
+      ],
       "name": "Chile",
-      "strength": 1,
       "flag": "cl"
     },
     {
-      "coordinates": [582, 543],
+      "coordinates": [
+        582,
+        543
+      ],
       "name": "Colombia",
-      "strength": 1,
       "flag": "co"
     },
     {
-      "coordinates": [444, 750],
+      "coordinates": [
+        444,
+        750
+      ],
       "name": "Ecuador",
-      "strength": 1,
       "flag": "ec"
     },
     {
-      "coordinates": [1204, 615],
+      "coordinates": [
+        1204,
+        615
+      ],
       "name": "French Guyana",
-      "strength": 1,
       "flag": "gf"
     },
     {
-      "coordinates": [981, 546],
+      "coordinates": [
+        981,
+        546
+      ],
       "name": "Guyana",
-      "strength": 1,
       "flag": "gy"
     },
     {
-      "coordinates": [537, 1017],
+      "coordinates": [
+        537,
+        1017
+      ],
       "name": "Peru",
-      "strength": 1,
       "flag": "pe"
     },
     {
-      "coordinates": [1028, 1404],
+      "coordinates": [
+        1028,
+        1404
+      ],
       "name": "Paraguay",
-      "strength": 1,
       "flag": "py"
     },
     {
-      "coordinates": [1097, 586],
+      "coordinates": [
+        1097,
+        586
+      ],
       "name": "Suriname",
-      "strength": 1,
       "flag": "sr"
     },
     {
-      "coordinates": [1118, 1695],
+      "coordinates": [
+        1118,
+        1695
+      ],
       "name": "Uruguay",
-      "strength": 1,
       "flag": "uy"
     },
     {
-      "coordinates": [770, 465],
+      "coordinates": [
+        770,
+        465
+      ],
       "name": "Venezuela",
-      "strength": 1,
       "flag": "ve"
     },
     {
-      "coordinates": [795, 808],
+      "coordinates": [
+        795,
+        808
+      ],
       "name": "Amazonas",
-      "strength": 1,
       "flag": "amazonas"
     },
     {
-      "coordinates": [1267, 794],
-      "name": "Para",
-      "strength": 1,
+      "coordinates": [
+        1267,
+        794
+      ],
+      "name": "Pará",
       "flag": "Para"
     },
     {
-      "coordinates": [1550, 1066],
+      "coordinates": [
+        1550,
+        1066
+      ],
       "name": "Bahia",
-      "strength": 1,
       "flag": "bahia"
     },
     {
-      "coordinates": [1374, 1404],
-      "name": "Sao Paulo",
-      "strength": 1,
+      "coordinates": [
+        1374,
+        1404
+      ],
+      "name": "São Paulo",
       "flag": "Sao Paulo"
     }
   ]
