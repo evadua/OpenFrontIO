@@ -7,7 +7,6 @@
         420
       ],
       "name": "Swiss Confederation",
-      "strength": 1,
       "flag": "ch"
     },
     {
@@ -16,7 +15,6 @@
         263
       ],
       "name": "Duchy of Burgundy",
-      "strength": 1,
       "flag": "burgundy"
     },
     {
@@ -25,7 +23,6 @@
         485
       ],
       "name": "Duchy of Aquitaine",
-      "strength": 1,
       "flag": "aquitaine"
     },
     {
@@ -34,7 +31,6 @@
         636
       ],
       "name": "County of Provence",
-      "strength": 1,
       "flag": "provence"
     },
     {
@@ -43,7 +39,6 @@
         748
       ],
       "name": "Kingdom of Navarre",
-      "strength": 1,
       "flag": "navarre"
     },
     {
@@ -52,7 +47,6 @@
         1190
       ],
       "name": "Kingdom of Valencia",
-      "strength": 1,
       "flag": "valencia"
     },
     {
@@ -61,7 +55,6 @@
         858
       ],
       "name": "Catalonia",
-      "strength": 1,
       "flag": "catalonia"
     },
     {
@@ -70,7 +63,6 @@
         807
       ],
       "name": "Kingdom of Galicia",
-      "strength": 1,
       "flag": "es-ga"
     },
     {
@@ -79,7 +71,6 @@
         1388
       ],
       "name": "Emirate of Granada",
-      "strength": 1,
       "flag": "granada"
     },
     {
@@ -88,7 +79,6 @@
         1156
       ],
       "name": "Kingdom of Portugal",
-      "strength": 1,
       "flag": "kingdom_of_portugal"
     },
     {
@@ -97,7 +87,6 @@
         1805
       ],
       "name": "Marinid Sultanate",
-      "strength": 1,
       "flag": "marinid"
     },
     {
@@ -106,7 +95,6 @@
         1725
       ],
       "name": "Zayyanid Sultanate",
-      "strength": 1,
       "flag": "zayyanid"
     },
     {
@@ -115,7 +103,6 @@
         641
       ],
       "name": "County of Armagnac",
-      "strength": 1,
       "flag": "armagnac"
     },
     {
@@ -124,7 +111,6 @@
         1300
       ],
       "name": "City of Cordoba",
-      "strength": 1,
       "flag": "cordoba"
     },
     {
@@ -133,7 +119,6 @@
         1021
       ],
       "name": "Kingdom of Leon",
-      "strength": 1,
       "flag": "leon"
     },
     {
@@ -142,7 +127,6 @@
         1036
       ],
       "name": "Crown of Castile",
-      "strength": 1,
       "flag": "castille"
     },
     {
@@ -151,7 +135,6 @@
         767
       ],
       "name": "Principality of Asturias",
-      "strength": 1,
       "flag": "asturias"
     },
     {
@@ -160,7 +143,6 @@
         1130
       ],
       "name": "Kingdom of Majorca",
-      "strength": 1,
       "flag": "majorca"
     },
     {
@@ -169,7 +151,6 @@
         1630
       ],
       "name": "Hafsid Sultanate",
-      "strength": 1,
       "flag": "hafsid"
     },
     {
@@ -178,7 +159,6 @@
         926
       ],
       "name": "Crown of Aragon",
-      "strength": 1,
       "flag": "catalonia"
     },
     {
@@ -187,7 +167,6 @@
         119
       ],
       "name": "City of Paris",
-      "strength": 1,
       "flag": "paris"
     },
     {
@@ -196,7 +175,6 @@
         221
       ],
       "name": "Kingdom of Brittany",
-      "strength": 1,
       "flag": "brittany"
     },
     {
@@ -205,7 +183,6 @@
         614
       ],
       "name": "City of Avignon",
-      "strength": 1,
       "flag": "va"
     },
     {
@@ -214,7 +191,6 @@
         129
       ],
       "name": "Duchy of Normandy",
-      "strength": 1,
       "flag": "normandy"
     },
     {
@@ -223,7 +199,6 @@
         383
       ],
       "name": "Kingdom of France",
-      "strength": 1,
       "flag": "Franks"
     },
     {
@@ -232,7 +207,6 @@
         1399
       ],
       "name": "City of Seville",
-      "strength": 1,
       "flag": "seville"
     },
     {
@@ -241,7 +215,6 @@
         90
       ],
       "name": "Holy Roman Empire",
-      "strength": 1,
       "flag": "Holy Roman Empire"
     }
   ]
