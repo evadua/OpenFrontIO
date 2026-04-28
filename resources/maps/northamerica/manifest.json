@@ -72,17 +72,17 @@
       "name": "Arizona"
     },
     {
-      "coordinates": [901, 870],
+      "coordinates": [940, 905],
       "flag": "California",
       "name": "California"
     },
     {
-      "coordinates": [1140, 837],
+      "coordinates": [1147, 843],
       "flag": "Colorado",
       "name": "Colorado"
     },
     {
-      "coordinates": [1600, 971],
+      "coordinates": [1593, 974],
       "flag": "Georgia_US",
       "name": "Georgia"
     },
@@ -92,7 +92,7 @@
       "name": "Hawaii"
     },
     {
-      "coordinates": [1000, 700],
+      "coordinates": [1000, 710],
       "flag": "Idaho",
       "name": "Idaho"
     },
@@ -102,17 +102,17 @@
       "name": "Illinois"
     },
     {
-      "coordinates": [1360, 832],
+      "coordinates": [1335, 835],
       "flag": "Kansas",
       "name": "Kansas"
     },
     {
-      "coordinates": [1556, 867],
+      "coordinates": [1525, 872],
       "flag": "Kentucky",
       "name": "Kentucky"
     },
     {
-      "coordinates": [1416, 983],
+      "coordinates": [1410, 984],
       "flag": "Louisiana",
       "name": "Louisiana"
     },
@@ -127,7 +127,7 @@
       "name": "Michigan"
     },
     {
-      "coordinates": [1489, 958],
+      "coordinates": [1472, 940],
       "flag": "Mississippi",
       "name": "Mississippi"
     },
@@ -137,7 +137,7 @@
       "name": "Minnesota"
     },
     {
-      "coordinates": [1442, 859],
+      "coordinates": [1427, 829],
       "flag": "Missouri",
       "name": "Missouri"
     },
@@ -147,17 +147,17 @@
       "name": "Montana"
     },
     {
-      "coordinates": [1256, 779],
+      "coordinates": [1263, 787],
       "flag": "Nebraska",
       "name": "Nebraska"
     },
     {
-      "coordinates": [973, 812],
+      "coordinates": [946, 818],
       "flag": "Nevada",
       "name": "Nevada"
     },
     {
-      "coordinates": [1160, 939],
+      "coordinates": [1169, 932],
       "flag": "New_Mexico",
       "name": "New Mexico"
     },
@@ -172,27 +172,27 @@
       "name": "North Dakota"
     },
     {
-      "coordinates": [1607, 825],
+      "coordinates": [1612, 816],
       "flag": "Ohio",
       "name": "Ohio"
     },
     {
-      "coordinates": [1265, 881],
+      "coordinates": [1296, 902],
       "flag": "Oklahoma",
       "name": "Oklahoma"
     },
     {
-      "coordinates": [890, 759],
+      "coordinates": [873, 757],
       "flag": "Oregon",
       "name": "Oregon"
     },
     {
-      "coordinates": [1690, 801],
+      "coordinates": [1686, 796],
       "flag": "Pennsylvania",
       "name": "Pennsylvania"
     },
     {
-      "coordinates": [1657, 941],
+      "coordinates": [1636, 934],
       "flag": "South_Carolina",
       "name": "South Carolina"
     },
@@ -202,22 +202,22 @@
       "name": "South Dakota"
     },
     {
-      "coordinates": [1564, 916],
+      "coordinates": [1579, 900],
       "flag": "Tennessee",
       "name": "Tennessee"
     },
     {
-      "coordinates": [1305, 972],
+      "coordinates": [1279, 1013],
       "flag": "Texas",
       "name": "Texas"
     },
     {
-      "coordinates": [1785, 738],
+      "coordinates": [1785, 727],
       "flag": "Vermont",
       "name": "Vermont"
     },
     {
-      "coordinates": [1642, 857],
+      "coordinates": [1652, 864],
       "flag": "Virginia",
       "name": "Virginia"
     },
@@ -287,7 +287,7 @@
       "name": "New Brunswick"
     },
     {
-      "coordinates": [1970, 722],
+      "coordinates": [1924, 748],
       "flag": "novascotia",
       "name": "Nova Scotia"
     },
@@ -320,6 +320,46 @@
       "coordinates": [2785, 358],
       "flag": "is",
       "name": "Iceland"
+    },
+    {
+      "coordinates": [1975, 702],
+      "flag": "princeedwardisland",
+      "name": "Prince Edward Island"
+    },
+    {
+      "coordinates": [1037, 838],
+      "flag": "Utah",
+      "name": "Utah"
+    },
+    {
+      "coordinates": [1402, 772],
+      "flag": "Iowa",
+      "name": "Iowa"
+    },
+    {
+      "coordinates": [1685, 902],
+      "flag": "North_Carolina",
+      "name": "North Carolina"
+    },
+    {
+      "coordinates": [1417, 904],
+      "flag": "Arkansas",
+      "name": "Arkansas"
+    },
+    {
+      "coordinates": [1547, 819],
+      "flag": "Indiana",
+      "name": "Indiana"
+    },
+    {
+      "coordinates": [1528, 963],
+      "flag": "Alabama",
+      "name": "Alabama"
+    },
+    {
+      "coordinates": [1811, 782],
+      "flag": "Massachusetts",
+      "name": "Massachusetts"
     }
   ]
 }
